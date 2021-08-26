@@ -1,0 +1,32 @@
+{
+  "usuarios": [
+    {
+      "url": "http://localhost:3800/usuarios/",
+      "nombre": "juan",
+      "apellido": "Herrera",
+      "correo": "juan@gmail.con",
+      "id": 1
+    },
+    {
+      "url": "http://localhost:3800/usuarios/",
+      "nombre": "david",
+      "apellido": "galvis",
+      "correo": "marygalvis@gmail.com",
+      "id": 2
+    },
+    {
+      "url": "http://localhost:3800/usuarios/",
+      "nombre": "alvetr",
+      "apellido": "kanbd",
+      "correo": "david@gmail.com",
+      "id": 3
+    },
+    {
+      "url": "http://localhost:3800/usuarios/",
+      "nombre": "junior",
+      "apellido": "NANA",
+      "correo": "junir@gmail.com",
+      "id": 4
+    }
+  ]
+}
